@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saksham Mishra</h1>
 <h3 align="center">Bachelor of Technology, First Year Student, with working knowledge on multiple, cross platform projects around JavaScript, Python, Solidity, Java and C++. Pursuing research and development in the field of distributed systems, federated learning, differential privacy and blockchain technology. Always trying to solve fundamental problems around me to make things better, breaking barriers, creating something new.</h3>
 
-- 📫 How to reach me **saksham.mishra2402@gmail.com**
-                     **www.linkedin.com/in/s-mishra020224**
+- 📫 How to reach me 
+
+Github - **saksham.mishra2402@gmail.com**
+                  
+LinkedIn - **www.linkedin.com/in/s-mishra020224**
 
 
 
