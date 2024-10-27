@@ -4,9 +4,11 @@ I am a coder who loves to think solutions out of thin air. I also have a knack f
 
 - 📫 How to reach me 
 
-Email - **eragonbeast211@gmail.com** (I'm lazy at replying)
+Email - **eragonbeast211@gmail.com** (I'm lazy at replying here)
                   
 LinkedIn - **www.linkedin.com/in/s-mishra020224**
+
+Twitter - **https://x.com/SakshamMgc02**
 
 
 
