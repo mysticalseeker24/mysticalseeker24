@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saksham Mishra</h1>
-<h3 align="center">Bachelor of Technology, First Year Student, with working knowledge on multiple, cross platform projects around JavaScript, Python, Solidity, Java and C++. Pursuing research and development in the field of distributed systems, federated learning, differential privacy and blockchain technology. Always trying to solve fundamental problems around me to make things better, breaking barriers, creating something new.</h3>
+<h3 align="center">Bachelor of Technology, Second Year Student, with working knowledge on multiple, cross platform projects around JavaScript, Python, Solidity, Java and C++. Pursuing research and development in the field of distributed systems, federated learning, differential privacy and blockchain technology. Always trying to solve fundamental problems around me to make things better, breaking barriers, creating something new.
+I am a coder who loves to think solutions out of thin air. I also have a knack for competitive coding and Open Source.</h3>
 
 - 📫 How to reach me 
 
