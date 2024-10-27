@@ -3,7 +3,7 @@
 
 - 📫 How to reach me 
 
-Github - **saksham.mishra2402@gmail.com**
+Email - **eragonbeast211@gmail.com** (I'm lazy at replying)
                   
 LinkedIn - **www.linkedin.com/in/s-mishra020224**
 
