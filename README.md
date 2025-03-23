@@ -6,7 +6,7 @@ Hi 👋, I'm Saksham Mishra<br>Full Stack ML/AI Engineer | React Native Develope
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s-mishra020224) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@saksham.mishra2402) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sakshammgc02)
 
 ## Resume Link & Mail:
-[[Resume]](https://drive.google.com/file/d/1xVyAkU6cX68waZnZ7jGQ7-BqzjOKP9pq/view?usp=sharing)) 
+[[Resume]](https://drive.google.com/file/d/1xVyAkU6cX68waZnZ7jGQ7-BqzjOKP9pq/view?usp=sharing)
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saksham.mishra2402@gmail.com) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eragonbeast211@gmail.com) 
