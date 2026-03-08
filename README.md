@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Saksham Mishra<br>Full Stack ML/AI Engineer | React Native Developer | AI Researcher with 3 hackathon wins and expertise in AI, blockchain (Solidity, Rust), and scalable application development (React, Node.js, Kubernetes). Passionate about building innovative solutions across finance, healthcare, and retail domains, with a strong foundation in machine learning, deep learning, and blockchain technologies.
-
+Hi 👋, I'm Saksham Mishra<br>Full Stack ML/AI Engineer | React Native Developer | AI Researcher with 3 hackathon wins and expertise in AI, blockchain (Solidity, Rust), and scalable application development (React, Node.js, Kubernetes). Passionate about building innovative solutions across finance, healthcare, and retail domains, with a strong foundation in machine learning, deep learning.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-mishra2402/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@saksham.mishra2402) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SakshamMgc02)
